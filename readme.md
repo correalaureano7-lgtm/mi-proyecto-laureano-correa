@@ -1,0 +1,1 @@
+#hice el proyecto semaforo en tinkercard con los componentes.arduino UNO,cables,leds,protoboard
